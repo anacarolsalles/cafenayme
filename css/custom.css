@@ -1,0 +1,12 @@
+h2,
+h3 {
+  color: #ffc456;
+}
+
+h1 {
+  color: #f7f7f7;
+}
+
+.bg-dark {
+  background-color: #084622 !important;
+}
